@@ -5,6 +5,8 @@ Others, espically the speakers, call it Judeo-Spanish, Djudeo-Espanyol, Judezmo,
 
 Our goal is to help people who wish to learn Ladino or improve their knowladge.
 
-We are collecting resources for Learning Ladino,
+We are collecting resources for [Learning Ladino](learning-ladino).
+
+We are building a [Ladino dictionary](/).
 
 [About](about)
