@@ -7,4 +7,4 @@ Our goal is to help people who wish to learn Ladino or improve their knowladge.
 
 We are collecting resources for Learning Ladino,
 
-[About](/en/about)
+[About](about)
