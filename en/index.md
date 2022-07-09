@@ -23,8 +23,9 @@ We are building a [Ladino dictionary](/).
 * [Podcasts in Ladino](podcasts-in-ladino)
 * [YouTube in Ladino](youtube-in-ladino)
 * [Videos in Ladino](videos-in-ladino)
-* [Text in Ladino](en/text-in-ladino)
+* [Text in Ladino](text-in-ladino)
 * [Ladino speaking people](people)
+* [Other](other)
 
 
 * [About](about)
