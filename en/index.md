@@ -12,6 +12,7 @@ We are collecting resources for [Learning Ladino](learning-ladino).
 We are building a [Ladino dictionary](/).
 
 * [Books in Ladino](books-in-ladino)
+* [Newspapers in Ladino](newspapers-in-ladino)
 * [Films in Ladino](films-in-ladino)
 * [Ladino Dictionaries](ladino-dictionaries)
 * [Ladino music](ladino-music)

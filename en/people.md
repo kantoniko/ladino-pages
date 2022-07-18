@@ -21,5 +21,6 @@
 * [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
 * Ricardo Portal
 * [Antonio Ruiz Tinoco](https://hispanismo.cervantes.es/hispanistas/222785/ruiz-tinoco-antonio)
+* [Elia Karmona](https://en.wikipedia.org/wiki/Elia_Carmona)
 
 This is far from an exhaustive list. These are just the people I bumped into during my search. I hope to add more refernces later.
