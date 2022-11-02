@@ -42,7 +42,7 @@
 
 ## Courses and private lessons
 
-* [Ladino 21](https://en.ladino21.org/) has short (4x1 hour) courses in Ladino with Alejandro Acero Ayuda. They also offer private classes.
+* [Ladino 21](https://en.ladino21.org/) has short (4x1 hour) courses in Ladino with Alejandro Acero Ayuda and/or with Carlos Yebra López. They also offer private classes.
 
 * [eSefarad](https://esefarad.com/?p=101912) has short (4x1 hour) courses in Ladino with Liliana Benveniste.
 
