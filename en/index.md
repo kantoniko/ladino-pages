@@ -27,7 +27,7 @@ We are building a [Ladino dictionary](/).
 * [Text in Ladino](text-in-ladino)
 * [Ladino speaking people](people)
 * [Other](other)
-
+* [Youtube Videos about Kantoniko](https://www.youtube.com/playlist?list=PLw7UYp3N0eUYt8ARGB4DbNffB4MPROFDY)
 
 * [About](about)
 
