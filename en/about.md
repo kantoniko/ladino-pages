@@ -59,3 +59,11 @@ When the user clickes OK or Failure the word is placed at the end of the appropr
 if we have less than 10 words in the two lists, pick from the pool.
 If there are 10 or more then: 50% pick the first one from the "failed", 25% pick the first from the "ok" list 25% pick from the general pool (till we have a word that is not in the other two lists).
 
+## Contributors
+
+* [szabgab](https://github.com/szabgab)
+* [ms-kanto](https://github.com/ms-kanto)
+* [IsaBispoAbacherly](https://github.com/IsaBispoAbacherly)
+* [aftahaporti](https://github.com/aftahaporti)
+* [Yitzhak22](https://github.com/Yitzhak22)
+
