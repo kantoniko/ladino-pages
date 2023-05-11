@@ -62,7 +62,7 @@ If there are 10 or more then: 50% pick the first one from the "failed", 25% pick
 ## Contributors
 
 * [szabgab](https://github.com/szabgab)
-* [ms-kanto](https://github.com/ms-kanto[[O)
+* [ms-kanto](https://github.com/ms-kanto)
 * [IsaBispoAbacherly](https://github.com/IsaBispoAbacherly)
 * [aftahaporti](https://github.com/aftahaporti)
 * [Yitzhak22](https://github.com/Yitzhak22)
