@@ -60,6 +60,9 @@ There are several Universities that offer Ladino courses in some way:
 * [Salti Institute at Bar-Ilan University in Ramat Gan](http://www.ladinobiu.co.il/)
 * [The Moshe David Gaon Center for Ladino Culture  at Ben-Gurion University in the Negev](https://in.bgu.ac.il/humsos/heblit/Pages/About-En.aspx)
 
+## Practice speaking
+
+* We have a WhatsApp group called [Echar Lashon](https://kantoniko.com/echar-lashon). Twice a week we have a Zoom session where we talk about everything **in ladino**. Come and join us. It's free!
 
 ## Other
 
