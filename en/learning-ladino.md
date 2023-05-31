@@ -59,6 +59,7 @@ There are several Universities that offer Ladino courses in some way:
 * [Hebrew University in Jerusalem](https://pluto.huji.ac.il/~msladino/courses.htm)
 * [Salti Institute at Bar-Ilan University in Ramat Gan](http://www.ladinobiu.co.il/)
 * [The Moshe David Gaon Center for Ladino Culture  at Ben-Gurion University in the Negev](https://in.bgu.ac.il/humsos/heblit/Pages/About-En.aspx)
+* [Universita de Wrocław en Polonia](https://judaistyka.en.uni.wroc.pl/)
 
 ## Practice speaking
 
