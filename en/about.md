@@ -15,14 +15,32 @@
     - If it is not in our list of Ladino words we'll try to see if it is a word in one of the other languages. If it is we'll show the Ladino translation and its meanings.
 * We don't try to understand the context or the full expression. It is still your job to decide which meaning of a word is relevant in the specific context.
 
-## Source of the content
+## Source of the content, contributor
 
 * This site is based on the dictionary created by Güler Orgun, Ricardo Portal, and Antonio Ruiz Tinoco.
 * More specifically it is based on the Excel file from the [Ladinokomunita](https://ladinokomunita.groups.io/).
 * It is created by the enourmous countribution of the members of the Ladinokomunita and espcially its moderators: Rachel Amado Bortnick (founder), Yehuda Hatsvi, Aldo Sevi, Guler Orgun, and Moshe Gormez.
 * The [WhatsApp messages](/whatsapeando) were created by Albert Israel.
-* The site was created and is being maintained by [Gabor Szabo](https://szabgab.com/). All errors are mine. Please report them via email or via the Git repositories below so I can fix them.
+* The [daily sentences - Una fraza al diya](/ufad/) were creted by Karen Şarhon and collected by the [Ladino Data Hub](https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad).
+* The [posters - afishes](https://kantoniko.com/afishes/) were created by dr Aldo Sevi and shared via the [Los Ladinadores](https://www.facebook.com/groups/ladinadores) in Facebook.
 * Many words and most of the categorizations are based on the posters of dr. Aldo Sevi of [Los Ladinadores](https://www.facebook.com/groups/ladinadores) in Facebook.
+* The [Haberes Buenos](/haberes-buenos-de-buly/) stories in modern Spanish were created by Buly Hazan.
+* Juan Fernandez allowed the translation and publication of his book "Hola Lola" in modern Spanish which is called [Salú Lulú](/livros/salu-lulu/) in Ladino.
+* [Audio and sentences](https://kantoniko.com/egzempios/) provided by
+    * Rachel Amado Bortnick
+    * Eti Ojalvo
+    * Perla Katan
+    * Viki Diler
+    * Benni Aguado
+* Translations were provided by
+    * Moshe A. Gormez
+    * [Miriam Sherman - ms-kanto](https://github.com/ms-kanto)
+    * [Isadora Bispo - IsaBispoAbacherly](https://github.com/IsaBispoAbacherly)
+    * [Eti Ojalvo - aftahaporti](https://github.com/aftahaporti)
+    * [Yitzhak22](https://github.com/Yitzhak22)
+    * [Aaron Shapiro - AaronShapiro87](https://github.com/AaronShapiro87)
+    * [Italo Felizardo - italodealvarenga](https://github.com/italodealvarenga)
+* The site was created and is being maintained by [Gabor Szabo](https://szabgab.com/). All errors are mine. Please report them via email or via the Git repositories below so I can fix them.
 
 ## Source and License
 
@@ -58,12 +76,4 @@ We maintain 2 lists. One for words that were last time marked as "OK" and one fo
 When the user clickes OK or Failure the word is placed at the end of the appropriate queue.
 if we have less than 10 words in the two lists, pick from the pool.
 If there are 10 or more then: 50% pick the first one from the "failed", 25% pick the first from the "ok" list 25% pick from the general pool (till we have a word that is not in the other two lists).
-
-## Contributors
-
-* [szabgab](https://github.com/szabgab)
-* [ms-kanto](https://github.com/ms-kanto)
-* [IsaBispoAbacherly](https://github.com/IsaBispoAbacherly)
-* [aftahaporti](https://github.com/aftahaporti)
-* [Yitzhak22](https://github.com/Yitzhak22)
 
