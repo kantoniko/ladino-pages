@@ -26,6 +26,7 @@
 * Many words and most of the categorizations are based on the posters of dr. Aldo Sevi of [Los Ladinadores](https://www.facebook.com/groups/ladinadores) in Facebook.
 * The [Haberes Buenos](/haberes-buenos-de-buly/) stories in modern Spanish were created by Buly Hazan.
 * Juan Fernandez allowed the translation and publication of his book "Hola Lola" in modern Spanish which is called [Salú Lulú](/livros/salu-lulu/) in Ladino.
+* Can Evrensel Rodrik provided the list of [words of grammar](/gramer).
 * [Audio and sentences](https://kantoniko.com/egzempios/) provided by
     * Rachel Amado Bortnick
     * Eti Ojalvo
