@@ -36,7 +36,7 @@ Bien, yo solo esperi ken es ke va a korijar el problema ama, agora veo ke ay otr
 Agora la traduksion es la bevida ama si yo kliko sovre la palavra yo veo la otra sinyifikasion de la palavra (el pasado de la palavra "venir").
 Este es un yerro de programasion. Tengo ke korijarlo ama me puede tomar un poko mas tiempo.
 
-### 4. Kategorias de palavras i afishes](https://youtu.be/sCesj7O4z6E)
+### 4. [Kategorias de palavras i afishes](https://youtu.be/sCesj7O4z6E)
 
 En este episodio de filmikos sovre el sitio de Kantoniko (en inglez) yo introdusi las listas de palavras - las kategorias de palavras en ladino.
 Tambien yo mostro la koleksion de afishes de Aldo Sevi de [Los Ladinadores](https://www.facebook.com/groups/ladinadores)
@@ -71,24 +71,21 @@ En este filmiko  vaj a entender komo uzar el [Github](https://github.com/) para 
 
 * Adjustar traduksiones en inglez, kasteyano, turko, fransez, ebreo, portugez, o grego a las palavras ke ya egzisten en el diksionaryo.
 * Adjustar traduksiones en inglez, kasteyano, turko, fransez, ebreo, portugez, o grego a los egzempios ke ya egzisten en el diksionaryo.
-* Rekordar audio para los egzempios.
 
 * Adjustar mas palavras en ladino.
-* Eskrivir mas egzempios en ladino.
 
-* [Traduizir palavras ke mankan](traduizir-palavras-ke-mankan)
-* [Eskrive egzempios](eskrive-egzempios)
-* [Rekordar tu boz meldando una fraza](rekordar-tu-boz-meldando-una-fraza)
+* [Traduizir palavras ke mankan](traduizir-palavras-ke-mankan).
+* [Eskrive mas egzempios en ladino](eskrive-egzempios).
+* [Rekordar tu boz meldando una fraza](rekordar-tu-boz-meldando-una-fraza). (Rekordar audio para los egzempios.)
 
-## Komo puedesh ayudar kon la programasyon?
+## Komo puedesh ayudar kon programasion?
 
-Todo partes del proyekto esta en GitHub an la organisasion [Kantoniko](https://github.com/kantoniko/)
+Todo partes del proyekto estan en GitHub an la organisasion [Kantoniko](https://github.com/kantoniko/).
 
 Usamos GitHub pages para publikar.
 
 * El repositorio de [kantoniko.github.io](https://github.com/kantoniko/kantoniko.github.io/) es solo para krear el lugar.
 * El repositorio de [ladino-diksionaryo-code](https://github.com/kantoniko/ladino-diksionaryo-code/) and tenemos todas las programas.
-* ...
 
 
 
