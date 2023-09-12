@@ -25,3 +25,9 @@ Usamos GitHub pages para publikar.
 
 * [Enkontro de Alhad](https://www.youtube.com/watch?v=B8BeC922reo) en 2023.09.03.
 
+
+##  Komo ayudar kon Kantoniko?
+
+* [Traduizir palavras ke mankan](traduizir-palavras-ke-mankan)
+* [Eskrive egzempios](eskrive-egzempios)
+
