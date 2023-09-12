@@ -1,7 +1,6 @@
 # El Kantoniko de Ladino
 
-Este lugar de Internet es por los Ladinoavlantes i por las personas ke keren ambezar la lengua.
-
+Este lugar de Internet es por los Ladinoavlantes i por las personas ke keren ambezarse la lingua.
 
 ## Komo puedesh ayudar sin programasion?
 
@@ -21,3 +20,8 @@ Usamos GitHub pages para publikar.
 * El repositorio de [kantoniko.github.io](https://github.com/kantoniko/kantoniko.github.io/) es solo para krear el lugar.
 * El repositorio de [ladino-diksionaryo-code](https://github.com/kantoniko/ladino-diksionaryo-code/) and tenemos todas las programas.
 * ...
+
+## Un filmiko sovre Kantoniko
+
+* [Enkontro de Alhad](https://www.youtube.com/watch?v=B8BeC922reo) en 2023.09.03.
+
