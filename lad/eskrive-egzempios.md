@@ -12,7 +12,7 @@ Por esto kero tener munchos egzempios, frazas i tambien tekstos mas largas en [K
 
 En [esta pajina](https://kantoniko.com/words/ladino/) puedesh ver todas las palavras ke tenemos en Kantoniko. Al lado de kada palavra puedesh  ver el numero de egzempios ke ya tenemos. Si klikash sovre la palavra puedesh ver los egzempios.
 
-Komo puedesh ayudar?
+## Komo puedesh ayudar?
 
 Eskrive egzempios kon kada palavra i kon kada forma de la palavra. Kon kada kunjugasion de los verbos. Kon el singular i kon el plural de las palavras ke tienen los dos. Kon la version feminina i la version maskulina de las palavras.
 
@@ -30,7 +30,7 @@ O pueden ser frazas jenerales:
 
 Es mijor tener la fraza en ladino i tambien en otra de las linguas [komo aki](https://kantoniko.com/egzempios/djulio-i-agosto-son-mezes-muy-kayentes) ama si eskrives solo en ladino es ayuda tambien. [Aki](https://kantoniko.com/egzempios/) puedesh ver todos los egzempios ke ya tenemos.
 
-Komo mandar los egzempios?
+## Komo mandar los egzempios?
 
 Penso ke mijor si mandas las fraza al adreso de [Ladinokomunita](https://ladinokomunita.groups.io/). Esto puede dar la oportunidad a los moderadores korijar yerros i va a dar ideas muevas a la djente ke meldan los mesajes.
 En el sujeto de email eskrive: **Kantoniko: una fraza mueva.**

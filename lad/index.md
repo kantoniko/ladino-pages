@@ -30,4 +30,4 @@ Usamos GitHub pages para publikar.
 
 * [Traduizir palavras ke mankan](traduizir-palavras-ke-mankan)
 * [Eskrive egzempios](eskrive-egzempios)
-
+* [Rekordar tu boz meldando una fraza](rekordar-tu-boz-meldando-una-fraza)
