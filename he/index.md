@@ -7,10 +7,8 @@
 * קבוצת הדיון [לאדינוקומוניתה](https://ladinokomunita.groups.io/) מכילה חומר רב בלאדינו.
 
 
-## מילון
+* [מילון לאדינו עברי](/he/ladino-hebrew-dictionary)
 
-* המילון של <a href="http://folkmasa.org/milon/pmilonh.htm">דר. אבנר פרץ</a>.
-* המילון של מתילדה כהן-סראנו.
 
 ## קורס מוקלט
 
