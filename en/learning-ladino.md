@@ -44,7 +44,7 @@
 
 * [Ladino 21](https://en.ladino21.org/) has short (4x1 hour) courses in Ladino with Alejandro Acero Ayuda and/or with Carlos Yebra López. They also offer private classes.
 
-* [eSefarad](https://esefarad.com/?p=101912) has short (4x1 hour) courses in Ladino with Liliana Benveniste. There are 6 different courses from beginner to advanced levels.
+* [eSefarad](https://esefarad.com/) has short (4x1 hour) courses in Ladino with Liliana Benveniste. There are 6 different courses from beginner to advanced levels.
 
 * [Ladino Linguist](https://ladinolinguist.com/) has a long 16-session 20 hours course with Bryan Kirschen.
 
