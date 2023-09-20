@@ -14,6 +14,7 @@
 
 * [קורס לאדינו מוקלט לדוברי עברית](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D)
 
+
 ## ספרים
 
 * באתר של <a href="http://www.salonikaheritage.com/">המרכז למורשת יהדות שאלוניקי ויוון ע"ש ליאון רקנאטי</a> אפשר למצוא רשימה של ספרים למכירה.
@@ -30,3 +31,6 @@
 
 * [הטכנולוגיה מאחורי יצירת מילון לאדינו](https://youtu.be/821KsvYbHUc?rel=0)
 
+## קורסים ללאדינו
+
+* [קורסי לאדינו במכון שכטר למדעי היהדות](https://schechter.ac.il/news/public-courses/)
