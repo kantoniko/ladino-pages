@@ -18,6 +18,10 @@
 
 * באתר של <a href="http://www.salonikaheritage.com/">המרכז למורשת יהדות שאלוניקי ויוון ע"ש ליאון רקנאטי</a> אפשר למצוא רשימה של ספרים למכירה.
 
+## ספר לימוד
+
+* [לאדינו - ספר לימוד למתחילים - משה שאול](http://www.folkmasa.org/av/limud-ladino.pdf)
+
 ## קורסים
 
 * [קורס לאדינו בחולון](https://www.youtube.com/watch?v=a4xOMWjxtXw)
