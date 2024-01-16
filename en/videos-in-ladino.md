@@ -3,7 +3,7 @@
 * I created a [Ladino playlist](https://www.youtube.com/playlist?list=PLpSVfGBL5HR2AaU9KvGXmUa5hn8iYtOLq) on YouTube of interviews in Ladino.
 
 
-
+* [Ladino - Eliezer Papo](https://www.youtube.com/watch?v=RLqIzWvi_4c)
 
 * [Judeo-Espanyol](https://www.oeaw.ac.at/vlach/collections/judeo-spanish) a series of interviews in Ladino by the Austrian Academy of Sciences
   Lots of videos available on YouTube with subtitles.
