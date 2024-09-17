@@ -7,9 +7,6 @@
 * קבוצת הדיון [לאדינוקומוניתה](https://ladinokomunita.groups.io/) מכילה חומר רב בלאדינו.
 
 
-* [מילון לאדינו עברי](/he/ladino-hebrew-dictionary)
-
-
 ## קורס מוקלט
 
 * [קורס לאדינו מוקלט לדוברי עברית](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D)
@@ -34,3 +31,7 @@
 ## קורסים ללאדינו
 
 * [קורסי לאדינו במכון שכטר למדעי היהדות](https://schechter.ac.il/news/public-courses/)
+
+## מילון
+
+* [מילון לאדינו עברי](/he/ladino-hebrew-dictionary)
