@@ -22,6 +22,8 @@
 ## Hebrew - Ladino
 
 * [Avner Peretz Ladino-Hebrew online dictionary](http://folkmasa.org/milon/pmilonh.htm)
+    * [Ladino-Hebrew](https://folkmasa.org/milon/yachad2.php?mishtane=kantoniko)
+    * [Hebrew-Ladino](https://folkmasa.org/milon/yachad1.php?mishtane=%D7%A4%D7%99%D7%A0%D7%94%20%D7%A0%D7%A1%D7%AA%D7%A8%D7%AA)
 * Ladino-Ebreo-Ladino by Matilda Koén-Sarano
 
 ## French - Ladino
