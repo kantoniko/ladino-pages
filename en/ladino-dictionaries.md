@@ -12,6 +12,9 @@
 * [Online English-Ladino dictionary](https://glosbe.com/lad/en)
 * [Ladino-English](ladino-english.pdf) by Güler Orgun, Ricardo Portal i Antonio Ruiz Tinoco (included in the Online dictionary, above)
 
+* Online [El Trezlador!](https://judeo-spanish-translator.com/) by Yonnel Cohen ( Paris , Aki Estamos )
+* Online [Ladinot Translator](https://ladinotranslator.com/) by Victoriano Sanz Losada
+
 ## Spanish - Ladino
 
 * [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
@@ -34,6 +37,8 @@
     * [Amazon](https://smile.amazon.com/Dictionnaire-Francais-Espagnol-Clara-Perahya/dp/0828808287/)
     * [Amazon](https://smile.amazon.com/Dictionnaire-français-judéo-espagnol-Dictionnaires-French-Perahya/dp/2911053370/)
 * Dictionnaire illustré du judéo-espagnol de Turquie - by Isacco Hazan (judéo-espagnol/français, français/judéo-espagnol)
+
+* Online [El Trezlador!](https://judeo-espagnol-traducteur.com/) by Yonnel Cohen ( Paris , Aki Estamos )
 
 ## Turkish - Ladino
 
