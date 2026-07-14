@@ -13,7 +13,7 @@
 * [Ladino-English](ladino-english.pdf) by Güler Orgun, Ricardo Portal i Antonio Ruiz Tinoco (included in the Online dictionary, above)
 
 * Online [El Trezlador!](https://judeo-spanish-translator.com/) by Yonnel Cohen ( Paris , Aki Estamos )
-* Online [Ladinot Translator](https://ladinotranslator.com/) by Victoriano Sanz Losada
+* Online [Ladino Translator](https://ladinotranslator.com/) by Victoriano Sanz Losada
 
 ## Spanish - Ladino
 
